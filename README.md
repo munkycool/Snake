@@ -2,17 +2,14 @@
 
 ![](snake.png)
 
-Jeu de Snake pour la calculatrice Numworks.
+A snake game for the Numworks calculator 
 
-Ce jeu nécessite la version 13.1.0 ou supérieure d'Epsilon (détection des touches de clavier appuyées).
+Needs at least Epsilon 14
 
-## Fonctionnalités
+## Features
 
-- Réglages du jeu en mode textuel
-    - Vitesse
-    - Mode blanc/noir
-    - Taille des cases (4, 5, 8 ou 10 pixels)
+- Game settings in text mode
+    - Speed
+    - White/black mode
+    - Box size (4, 5, 8 or 10 pixels)
 
-## À venir
-
-- Amélioration de la pause
