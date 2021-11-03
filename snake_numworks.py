@@ -16,7 +16,7 @@ if mRapide == "n":
     else:
         cMode = "white"
     t = input("Blocks' size? (4/5/8/<10>) ")
-    if t = "":
+    if t == "":
         t = 10
     else:
         t = int(t)
@@ -39,7 +39,7 @@ else:
 while True:
     if cMode == "white":
             draw_string("Score: "+str(score), 5, 203)
-        else:
+    else:
             draw_string("Score: "+str(score), 5, 203, blanc, noir)
 
     while [px, py] in vers:
